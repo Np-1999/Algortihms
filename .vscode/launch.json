@@ -1,0 +1,290 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TwoSAT",
+            "request": "launch",
+            "mainClass": "TwoSAT",
+            "projectName": "GP_f658971a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - KosarRaju",
+            "request": "launch",
+            "mainClass": "KosarRaju",
+            "projectName": "GP_f658971a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EuclidGCD",
+            "request": "launch",
+            "mainClass": "EuclidGCD",
+            "projectName": "GP_f658971a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Sieve",
+            "request": "launch",
+            "mainClass": "Sieve",
+            "projectName": "GP_f658971a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrimeFactors",
+            "request": "launch",
+            "mainClass": "PrimeFactors",
+            "projectName": "GP_f658971a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrimeNumber",
+            "request": "launch",
+            "mainClass": "PrimeNumber",
+            "projectName": "GP_f658971a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lca",
+            "request": "launch",
+            "mainClass": "Lca",
+            "projectName": "GP_f658971a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SubstreeSum",
+            "request": "launch",
+            "mainClass": "SubstreeSum",
+            "projectName": "GP_f658971a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Ancestor",
+            "request": "launch",
+            "mainClass": "Ancestor",
+            "projectName": "GP_f658971a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HeightOfSubTree",
+            "request": "launch",
+            "mainClass": "HeightOfSubTree",
+            "projectName": "GP_f658971a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BinaryTreeTraversal",
+            "request": "launch",
+            "mainClass": "BinaryTreeTraversal",
+            "projectName": "GP_f658971a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TreeImplementation",
+            "request": "launch",
+            "mainClass": "TreeImplementation",
+            "projectName": "GP_f658971a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SementTreeRangeMinimum",
+            "request": "launch",
+            "mainClass": "SementTreeRangeMinimum",
+            "projectName": "GP_f658971a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SegmentTreePrefixSum",
+            "request": "launch",
+            "mainClass": "SegmentTreePrefixSum",
+            "projectName": "GP_f658971a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrefixSumBinaryIT",
+            "request": "launch",
+            "mainClass": "PrefixSumBinaryIT",
+            "projectName": "GP_f658971a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MinimumQuerySparseTable",
+            "request": "launch",
+            "mainClass": "MinimumQuerySparseTable",
+            "projectName": "GP_f658971a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BellmanFord<GP_f658971a>",
+            "request": "launch",
+            "mainClass": "BellmanFord",
+            "projectName": "GP_f658971a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Bfs<GP_f658971a>",
+            "request": "launch",
+            "mainClass": "Bfs",
+            "projectName": "GP_f658971a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BipartiteGraph<GP_f658971a>",
+            "request": "launch",
+            "mainClass": "BipartiteGraph",
+            "projectName": "GP_f658971a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DijsktraS<GP_f658971a>",
+            "request": "launch",
+            "mainClass": "DijsktraS",
+            "projectName": "GP_f658971a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FloydWarshall<GP_f658971a>",
+            "request": "launch",
+            "mainClass": "FloydWarshall",
+            "projectName": "GP_f658971a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FourQueens<GP_f658971a>",
+            "request": "launch",
+            "mainClass": "FourQueens",
+            "projectName": "GP_f658971a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-KnapSackDp<GP_f658971a>",
+            "request": "launch",
+            "mainClass": "KnapSackDp",
+            "projectName": "GP_f658971a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-KruskalAlgorithm<GP_f658971a>",
+            "request": "launch",
+            "mainClass": "KruskalAlgorithm",
+            "projectName": "GP_f658971a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MaxSumArraySubs<GP_f658971a>",
+            "request": "launch",
+            "mainClass": "MaxSumArraySubs",
+            "projectName": "GP_f658971a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PermutationProblem<GP_f658971a>",
+            "request": "launch",
+            "mainClass": "PermutationProblem",
+            "projectName": "GP_f658971a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PrefixSum1D<GP_f658971a>",
+            "request": "launch",
+            "mainClass": "PrefixSum1D",
+            "projectName": "GP_f658971a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PrefixSum2d<GP_f658971a>",
+            "request": "launch",
+            "mainClass": "PrefixSum2d",
+            "projectName": "GP_f658971a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RealPerm<GP_f658971a>",
+            "request": "launch",
+            "mainClass": "RealPerm",
+            "projectName": "GP_f658971a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Searching<GP_f658971a>",
+            "request": "launch",
+            "mainClass": "Searching",
+            "projectName": "GP_f658971a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Sorting<GP_f658971a>",
+            "request": "launch",
+            "mainClass": "Sorting",
+            "projectName": "GP_f658971a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SubsetGen<GP_f658971a>",
+            "request": "launch",
+            "mainClass": "SubsetGen",
+            "projectName": "GP_f658971a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TopologicalSort<GP_f658971a>",
+            "request": "launch",
+            "mainClass": "TopologicalSort",
+            "projectName": "GP_f658971a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-coinChangeDP<GP_f658971a>",
+            "request": "launch",
+            "mainClass": "coinChangeDP",
+            "projectName": "GP_f658971a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-dfs<GP_f658971a>",
+            "request": "launch",
+            "mainClass": "dfs",
+            "projectName": "GP_f658971a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-longestNonDecreasingSequence<GP_f658971a>",
+            "request": "launch",
+            "mainClass": "longestNonDecreasingSequence",
+            "projectName": "GP_f658971a"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-bellmanFord",
+            "request": "launch",
+            "mainClass": "bellmanFord"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-bfs",
+            "request": "launch",
+            "mainClass": "bfs"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-dfs",
+            "request": "launch",
+            "mainClass": "dfs"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-dijkstras",
+            "request": "launch",
+            "mainClass": "dijkstras"
+        }
+    ]
+}
